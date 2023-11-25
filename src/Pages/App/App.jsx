@@ -36,7 +36,7 @@ export const App = () => {
     setBooks([...books, book]);
 
     console.log(books);
-    // clearInput()
+    clearInput()
   };
   
   useEffect(() => {
