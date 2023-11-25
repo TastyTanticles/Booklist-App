@@ -113,10 +113,11 @@ export const App = () => {
             
             <>
               <div className="table-responsive">
-                <table className="table">
+                <table className="table">  
                   <thead>
                     <tr>
                       <th>ISBN#</th>
+                      <th>lala</th>
                       <th>Title</th>
                       <th>Author</th>
                       <th>Publish Year</th>
