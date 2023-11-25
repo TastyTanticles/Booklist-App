@@ -117,7 +117,6 @@ export const App = () => {
                   <thead>
                     <tr>
                       <th>ISBN#</th>
-                      <th>lala</th>
                       <th>Title</th>
                       <th>Author</th>
                       <th>Publish Year</th>
